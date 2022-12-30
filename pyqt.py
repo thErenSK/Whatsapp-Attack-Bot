@@ -6,9 +6,9 @@ global ad_edit
 global link_edit
 global gonderilecek_sayi_edit
 
-ad_edit = QLineEdit()  # ad_edit değişkeni yaratılıyor
-link_edit = QLineEdit()  # link_edit değişkeni yaratılıyor
-gonderilecek_sayi_edit = QLineEdit()  # gonderilecek_sayi_edit değişkeni yaratılıyor
+ad_edit = QLineEdit()  
+link_edit = QLineEdit()  
+gonderilecek_sayi_edit = QLineEdit() 
 
 class Form(QWidget):
     def __init__(self):
@@ -44,8 +44,4 @@ form = Form()
 form.show()
 app.exec_()
 
-"""
-print("Ad:", ad)
-print("Link:", link)
-print("Gönderilecek Sayı:", gonderilecek_sayi)
-"""
+
