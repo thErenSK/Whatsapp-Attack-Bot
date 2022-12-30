@@ -1,4 +1,4 @@
-# Whatsapp-Saldiri-Botu
+# Whatsapp Saldırı Botu
 Büyük küçük harf duyarlılığı vardır, (ilk harfi otomatik kendisi düzeltir) aradığınız kişiyi bulamıyorsanız kontrol ediniz.
 
 Saldıracağınız kişi whatsappta son görüşülenler listesinde olmalıdır.
