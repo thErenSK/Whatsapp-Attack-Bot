@@ -1,10 +1,9 @@
 # Whatsapp Saldırı Botu
-Büyük küçük harf duyarlılığı vardır, (ilk harfi otomatik kendisi düzeltir) aradığınız kişiyi bulamıyorsanız kontrol ediniz.
+Büyük/küçük harf duyarlılığı mevcuttur, (ilk harf otomatik olarak kendini düzeltir) aradığınız kişiyi bulamıyorsanız lütfen kontrol ediniz.
 
-Saldıracağınız kişi whatsappta son görüşülenler listesinde olmalıdır.
+Saldıracağınız kişinin WhatsApp'ta son görülme listesinde olması gerekmektedir.
 
-Fotoğraf linki kısmına site değil direkt olarak fotoğraf kaynağının linkini girmeniz gerekmektedir örneğin: https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg şeklinde olmalıdır. 
-(Fotoğrafa sağ tıkladıktan sonra "resim adresini kopyala" diyebilirsiniz)
+Fotoğraf bağlantısı bölümüne doğrudan fotoğraf kaynağının bağlantısını girmelisiniz, örneğin: https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg . (Fotoğrafın üzerine sağ tıklayıp "resim adresini kopyala" yı seçebilirsiniz)
 
 # İndir:
 [EXE İndirme Linki](https://drive.google.com/file/d/1ug94yMp5xVTojfWjGegz2gzPHpp4GNUU/view?usp=sharing)
