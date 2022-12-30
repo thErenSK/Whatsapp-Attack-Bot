@@ -8,6 +8,8 @@ Fotoğraf bağlantısı bölümüne doğrudan fotoğraf kaynağının bağlantı
 # İndir:
 [EXE İndirme Linki](https://drive.google.com/file/d/1ug94yMp5xVTojfWjGegz2gzPHpp4GNUU/view?usp=sharing)
 
+
+
 # Whatsapp Attack Bot
 Case sensitivity exists, (the first letter automatically corrects itself) if you cannot find the person you are looking for, please check.
 
